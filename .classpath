@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="S2ITTest/src/main/java"/>
+	<classpathentry kind="src" path="S2ITTest/src/test/java"/>
+	<classpathentry kind="lib" path="S2ITTest/target/S2Test-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="S2ITTest/target/classes"/>
+</classpath>
